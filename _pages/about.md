@@ -2,33 +2,41 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior QA Engineer
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_color.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Russian living in Serbia, currently working as a Senior Manual QA at Petrovich-Tech for last 4 years. Before that, I spent 10 years as a project manager — and eventually realized I wanted to be closer to the part where things actually get built.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I like knowing how things work. Not "it works, great" — more like taking it apart to see why. I'm thorough, I finish what I start, and I tend to keep poking at a project long after it's shipped.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can find my CV [here](/cv). I also have a few projects I'd like to share.
+
+### Georgian Railway website
+I've been working on georailway.com for over two years. It's the best source for Georgian train routes and schedules — about 9k visitors a month. I started it before the AI boom, mostly to learn web development. Still adding data, features, and tests. More details here (link).
+
+### Chrome extensions pack
+4 extensions I wrote to make testing easier at my current job. Very simple stuff, but they save a lot of time — for me and my teammates. More details here (link).
+
+### React test app
+I grabbed a random job posting's test assignment just to get a feel for React, then put it on GitHub. More details here (link).
+
+
