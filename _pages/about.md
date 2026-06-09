@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Senior QA Engineer
 
@@ -31,12 +31,9 @@ I like knowing how things work. Not "it works, great" — more like taking it ap
 You can find my CV [here](/cv). I also have a few projects I'd like to share.
 
 ### Georgian Railway website
-I've been working on georailway.com for over two years. It's the best source for Georgian train routes and schedules — about 9k visitors a month. I started it before the AI boom, mostly to learn web development. Still adding data, features, and tests. More details here (link).
+I've been working on georailway.com for over two years. It's the best source for Georgian train routes and schedules — about 9k visitors a month. I started it before the AI boom, mostly to learn web development. Still adding data, features, and tests. More details [here](/projects/georailway/).
 
 ### Chrome extensions pack
-4 extensions I wrote to make testing easier at my current job. Very simple stuff, but they save a lot of time — for me and my teammates. More details here (link).
-
-### React test app
-I grabbed a random job posting's test assignment just to get a feel for React, then put it on GitHub. More details here (link).
+4 extensions I wrote to make testing easier at my current job. Very simple stuff, but they save a lot of time — for me and my teammates. More details [here](/projects/extensions/).
 
 
