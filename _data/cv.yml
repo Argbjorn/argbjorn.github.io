@@ -1,31 +1,20 @@
 cv:
   name: Konstantin Remnev
-  label: Senior QA Engineer
+  headline: Senior QA Engineer
   email: dalwyn@gmail.com
   location: Belgrade, Serbia
-  image: ""
-  summary: QA Engineer with 10 years of project management experience.
 
   social_networks:
     - network: GitHub
-      username: argbjorn
-      url: https://github.com/Argbjorn
+      username: Argbjorn
 
   sections:
-    Education:
-      - institution: St. Petersburg State University
-        location: St. Petersburg, Russia
-        area: Unfinished
-        studyType: Public Relations
-        start_date: 2007
-        end_date: 2013
-
     Experience:
       - company: Petrovich-Tech
         position: Senior QA Engineer
         location: St. Petersburg, Russia
         start_date: 2022
-        end_date: "-"
+        end_date: present
         summary: |
           I do full-cycle testing for the Petrovich (one of Russia's biggest hardware retailers) catalog and related areas — products, listings, search, reviews. About 30% frontend, most of it backend: microservices, ERP integrations, external systems.
           Daily tools: Postman, Swagger, PostgreSQL, Jira, Confluence, Jenkins, Gitlab. Sometimes Redis and Kafka.
@@ -78,11 +67,19 @@ cv:
         end_date: 2014
         summary: Project manager in a distributed IT team for a nationwide e-commerce store.
 
+    Education:
+      - institution: St. Petersburg State University
+        location: St. Petersburg, Russia
+        area: Public Relations
+        degree: Unfinished
+        start_date: 2007
+        end_date: 2013
+
     Volunteer:
       - company: OpenStreetMap
         position: Mapper
         start_date: 2021
-        end_date: "-"
+        end_date: present
         summary: "Member of the Georgian OpenStreetMap community. Since 2022, we significantly improved the map quality of Georgia. Completed several projects: connected all settlements to Wikidata, organized and standardized all settlements (added missing ones, removed duplicates, fixed errors), standardized all streets in Kutaisi, mapped buildings and streets in Kutaisi."
 
     Skills:
